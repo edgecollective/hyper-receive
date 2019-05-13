@@ -6,7 +6,9 @@ https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
 ## Use hyper-receive
 
-Build Docker image with ./build.sh
+Build Docker image using:
+
+> ./build.sh
 
 Run with:
 
