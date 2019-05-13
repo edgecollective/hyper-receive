@@ -1,8 +1,10 @@
-# Install Docker
+# Hyper-receive
+
+## Install Docker
 
 https://docs.docker.com/install/linux/docker-ce/ubuntu/
 
-# Use hyper-receive
+## Use hyper-receive
 
 Build Docker image with ./build.sh
 
